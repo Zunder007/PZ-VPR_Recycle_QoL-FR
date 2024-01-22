@@ -48,4 +48,14 @@ Recipe_FR = {
 	Recipe_Rope_to_Twine = "Convertir la corde en ficelle",
 	Recipe_Sheet_Rope_to_Sheet = "Convertir la corde de drap en drap",
 	Recipe_Thread_to_Twine = "Convertir le fil en ficelle",
+
+	Recipe_Make_Barbed_Wire = "Fabriquer du fil barbelé",
+	Recipe_Make_Charcoal = "Faire du charbon",
+	Recipe_Make_Glue = "Faire de la colle",
+	Recipe_Make_Gunpowder = "Faire de la poudre à canon",
+	Recipe_Make_Leather_Gloves = "Fabriquer des gants de cuir",
+	Recipe_Make_Pasta = "Faire des pâtes",
+	Recipe_Make_Pillow = "Fabriquer un oreiller",
+	Recipe_Make_Rope = "Fabriquer une corde",
+	Recipe_Make_Thread = "Fabriquer un fil",
 }
